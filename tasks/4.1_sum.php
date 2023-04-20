@@ -2,7 +2,7 @@
 
 /**
  * @param int[] $array
- * @return String
+ * @return int
  */
 function sum($array) : int
 {

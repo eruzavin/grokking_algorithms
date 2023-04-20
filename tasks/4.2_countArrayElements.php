@@ -4,7 +4,7 @@
 
 /**
  * @param int[] $array
- * @return String
+ * @return int
  */
 function countArrayElements($array) : int
 {
